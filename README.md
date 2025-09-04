@@ -9,3 +9,7 @@ This project demonstrates how a signal can be decomposed into its frequency comp
 - Visualize the original signal and its reconstruction using partial Fourier components.
 - Animated GIF output showing how the signal is rebuilt from its frequency spectrum.
 - Easy-to-understand visualization of the frequency spectrum.
+
+## Demo
+
+![Demo GIF](./fourier_transform.gif)
